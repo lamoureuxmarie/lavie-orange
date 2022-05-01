@@ -13,13 +13,13 @@
     margin-left: 15px;
     border-radius: 50%;
     border: 2px solid #161616;
-    transition: transform 1s ease;
+    transition: transform .7s ease;
 }
 
 .annonce {
     visibility: hidden;
     color: #FFF;
-    transition: transform 0.5s ease-in-out;
+    transition: transform 0.7s ease;
     position: absolute;
     left: 50%;
     top: 50%;
